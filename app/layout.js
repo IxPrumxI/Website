@@ -1,7 +1,6 @@
 import './global.css'
 
 export const metadata = {
-    metadataBase: "/",
     title: 'DiscordSRV'
 }
 
