@@ -7,7 +7,7 @@ export default function Index({ title, open, close, children }) {
                 <div className={styles.modalWrapper}>
                     <div className={styles.modalHeader}>
                         <h2>{title}</h2>
-                        <button onClick={() => close()}>&times;</button>
+                        <button onClick={() => close()} style={{color: "white"}}>&times;</button>
                     </div>
                     <div className={styles.modalContent}>
                         {children}
