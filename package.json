@@ -16,15 +16,15 @@
     "react": "^19.1.1",
     "react-collapsed": "^4.1.2",
     "react-dom": "^19.1.1",
-    "redis": "^5.8.2",
+    "redis": "^5.11.0",
     "unzipit": "^1.4.3"
   },
   "devDependencies": {
-    "@types/node": "24.10.1",
-    "@types/react": "19.2.7",
-    "autoprefixer": "^10.4.16",
-    "eslint": "9.39.1",
-    "eslint-config-next": "16.0.7",
+    "@types/node": "25.3.3",
+    "@types/react": "19.2.14",
+    "autoprefixer": "^10.4.27",
+    "eslint": "10.0.2",
+    "eslint-config-next": "16.1.6",
     "typescript": "5.9.3"
   }
 }
